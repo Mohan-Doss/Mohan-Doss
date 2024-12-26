@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohan Doss M</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-- 🔭 I’m currently working on **Farmer Assistant: A Deep Learning based approach for agricultural using NLP**
+- 🔭 I’m currently working on [Farmer Assistant: A Deep Learning based approach for agricultural using NLP](https://github.com/Mohan-Doss/Farmer-Assistant)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohan-Doss](https://github.com/Mohan-Doss)
 
