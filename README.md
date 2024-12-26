@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mohan-Doss](https://github.com/Mohan-Doss)
 
-- 📫 How to reach me **mohandoss1105@gmail.como**
+- 📫 How to reach me **mohandoss1105@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
